@@ -1,0 +1,6 @@
+This game contains both PVE and PVP elements. Killing monsters in the game will drop fluorescent blocks,
+which can be stored in designated containers after being picked up. The team that has priority 100 to Summon a boss.
+For every 5, 10, 15 blocks stored, you can send a blocker that can steal the opposite fluorescent block to the enemy faction.
+When the blocker is on the field, the fluorescent library will be closed. When the team stores a total of 25, 50, 75, and 100 fluorescent blocks,
+they can open the invasion portal to the enemy camp to kill the player carrying the fluorescent. When the boss is summoned,
+the invaded portal of the camp will be opened every 15 seconds. After the intruder kills the player, the HP will be restored to the boss of the killed camp
