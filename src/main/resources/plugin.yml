@@ -1,0 +1,5 @@
+name: Gambit
+version: ${project.version}
+main: me.zh.gambit.Gambit
+api-version: 1.16
+description: mini game
