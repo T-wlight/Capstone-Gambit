@@ -1,0 +1,9 @@
+#config
+General:
+  language: en
+  
+Invade:
+  #unit: seconds
+  invadeTime: 30
+  #kill 4 players will stop the invade immediatly
+  maxKill: 4
